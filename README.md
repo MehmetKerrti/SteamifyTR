@@ -9,7 +9,7 @@
 
  # ✨ Genel Bilgi
  ### 🖥️ Steam oyun saatlerini artırmak ve kart düşürmek için yazılmış bir bot.
-### 🇹🇷 HourBoostr Yazılımının geliştirilip türkçeleştirilmiş versiyonudur.
+### ❤️ HourBoostr Yazılımının geliştirilip türkçeleştirilmiş versiyonudur.
 ### 🖥️ SteamifyTR , Steam hesaplarınızdaki oyunları oynatmak için geliştirilmiş uygulamadır. Uygulama da boosltamak istediğiniz oyunun yüklü olmasını gerektirmez, ancak oyuna kütüphanenizde sahip olmanız gerekir.
 ### 🖥️ Sadece bir hesabınızı güçlendirmek istiyorsanız, bu program tam size göre. Bu program, Steam'in yüklü olmasını gerektirir. Ancak, hesabınıza giriş yapıp oyun oynayabilir ve aynı zamanda SteamifyTR ile diğer oyunları boostlarken arkadaşlarınızla sohbet edebilirsiniz. SteamifyTR ayrıca Koleksiyon Kartları toplamak için de harika bir yol sunar.
 
